@@ -15,12 +15,12 @@ body {
 .post {
 	margin: 0 auto;
 	font-family: monospace;
-	color: burlywood;
+	color: blue;
 }
 
 #cabecera {
 	width: 100%;
-	background-color: gray;
+	background-color: blue;
 	display: flex;
 	justify-content: space-evenly;
 }
